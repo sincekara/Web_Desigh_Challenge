@@ -1,6 +1,6 @@
 ## Web Design Homework - Web Visualization Dashboard (Latitude)
 
-![Images/landingResize.png](Images/landingResize.png)
+![](Images/LandingPage.png)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
